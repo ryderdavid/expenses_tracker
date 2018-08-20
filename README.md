@@ -17,6 +17,10 @@ In short, the program takes in records of spending on behalf of a group undertak
 
 The program takes as input spreadsheets with, at a minimum, a header with at least two columns labeled “Spender” and “Amount”, with “Spender” being a transaction’s spender (spelling and capitalization matters, and each Spender must have a unique name), and dollar amounts (cents are also OK) listed under each “Amount.” 
 
+Sample here:
+
+![sample input spreadsheet showing correct columns and formatting](https://github.com/ryderdavid/expenses_tracker/blob/master/img/sample1.png "Sample table formatting")
+
 When the user opens the program, the following menu is displayed:
 
 1: Add expenses from file 
