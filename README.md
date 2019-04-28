@@ -1,6 +1,5 @@
-# expenses_tracker
-Python Expenses Tracker for Roommates
-       Final Project, BU MET CS 521 – Expenses Tracker that Reads Microsoft Excel Spreadsheets
+# Rommate Expenses Tracker
+Final Project, BU MET CS 521 – Information Structures with Python. Small Expenses Tracker that Reads Microsoft Excel Spreadsheets to collect roommate and expenditure data, and provide repayment instructions to all roommates.
 
 ## Preparation
 This program depends on pandas, a data analysis package available for Python. More information on pandas is available at https://pandas.pydata.org/. It also requires xlrd, to handle Excel files. To install:
