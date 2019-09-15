@@ -1,4 +1,4 @@
-# Rommate Expenses Tracker
+# Roommate Expenses Tracker
 Final Project, BU MET CS 521 – Information Structures with Python. Small Expenses Tracker that Reads Microsoft Excel Spreadsheets to collect roommate and expenditure data, and provide repayment instructions to all roommates.
 
 ## Preparation
